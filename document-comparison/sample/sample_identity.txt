@@ -1,0 +1,18 @@
+Food and Civil Supplies Department
+-----------------------------
+| RATION CARD
+-----------------------------
+| Name: Vinod Kumar
+| Family Members: 5
+| Ration Card No: RC123456789
+| Category: Antyodaya Anna Yojana (AAY)
+| Address:
+|   32, Gandhi Nagar, 
+|   Jaipur, Rajasthan, 
+|   India - 302001
+| Mobile Number: 9876543210
+-----------------------------
+| Issuing Authority: Rajasthan Government
+| Date of Issue: 15/08/2018
+| Expiry Date: 15/08/2028
+-----------------------------

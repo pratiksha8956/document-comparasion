@@ -1,0 +1,17 @@
+Income Tax Department
+-----------------------------
+| PAN CARD
+-----------------------------
+| Name: Karan Singh
+| Father’s Name: Ramesh Singh
+| Date of Birth: 22/06/1983
+| PAN Number: ABCPK1234D
+| Address: 
+|   101, First Floor, 
+|   Sector 16, Gurgaon, 
+|   Haryana - 122018
+| Mobile Number: 9998887777
+-----------------------------
+| Issuing Authority: Income Tax Department, India
+| Date of Issue: 20/03/2020
+-----------------------------

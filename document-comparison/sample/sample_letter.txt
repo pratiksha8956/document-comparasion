@@ -1,0 +1,21 @@
+Ministry of Road Transport and Highways
+-----------------------------
+| DRIVING LICENSE
+-----------------------------
+| Name: Priya Mehta
+| Gender: Female
+| Driving License No: DL-1234567890
+| Date of Birth: 25/02/1992
+| Address: 
+|   5, Greenfield Colony,
+|   Noida, Uttar Pradesh, 
+|   India - 201301
+| Blood Group: O+
+| Mobile Number: 8765432109
+-----------------------------
+| Date of Issue: 12/04/2020
+| Issuing Authority: Uttar Pradesh RTO
+| Valid Till: 12/04/2030
+-----------------------------
+| Vehicle Class: LMV, HMV
+-----------------------------

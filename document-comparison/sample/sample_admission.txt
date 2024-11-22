@@ -1,0 +1,20 @@
+Election Commission of India
+-----------------------------
+| VOTER ID CARD
+-----------------------------
+| Name: Anjali Sharma
+| Gender: Female
+| Age: 34
+| Voter ID: XYZ123456789
+| Father's Name: Rajesh Sharma
+| Date of Birth: 20/11/1989
+| Address: 
+|   25, Ashoka Road,
+|   Lucknow, Uttar Pradesh, 
+|   India - 226001
+| Polling Booth: Sector 12, Booth 5
+-----------------------------
+| Constituency: Lucknow Central
+| Issuing Authority: Election Commission of India
+| Date of Issue: 10/02/2020
+-----------------------------

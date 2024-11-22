@@ -1,0 +1,16 @@
+Revenue Department
+-----------------------------
+| INCOME CERTIFICATE
+-----------------------------
+| Name: Ramesh Patel
+| Father's Name: Shankar Patel
+| Income: ₹2,50,000 annually
+| Address: 
+|   45, Blue Moon Colony, 
+|   Surat, Gujarat, 
+|   India - 395002
+| Mobile Number: 9998765432
+-----------------------------
+| Issuing Authority: Government of Gujarat
+| Date of Issue: 01/11/2021
+-----------------------------

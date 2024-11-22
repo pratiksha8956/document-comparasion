@@ -1,0 +1,16 @@
+Government of India
+-----------------------------
+| EMPLOYEE ID CARD
+-----------------------------
+| Name: Preeti Saini
+| Employee ID: G1234567
+| Department: Ministry of Education
+| Designation: Junior Researcher
+| Office Address: 
+|   Room 305, Education Ministry Building,
+|   New Delhi, India
+| Mobile Number: 9991122334
+-----------------------------
+| Date of Issue: 01/06/2019
+| Valid Till: 01/06/2024
+-----------------------------

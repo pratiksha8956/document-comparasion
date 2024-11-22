@@ -1,0 +1,6 @@
+This is a sample document.
+It contains some content to compare.
+There are a few lines here.
+We can test the comparison functionality with it.
+Thank you for using the document comparison tool.
+give

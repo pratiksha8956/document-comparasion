@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Comparison</title>
+    <!-- Link to CSS file -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Document Comparison</h1>
+        <p>Upload a document to compare it with a sample document.</p>
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <label for="document_type">Choose document type:</label>
+            <select name="document_type" required>
+                <option value="admission">Admission</option>
+                <option value="application">Application</option>
+                <option value="bonafied">Bonafied</option>
+                <option value="cv">Cv</option>
+                <option value="fee receipt">fee receipt</option>
+                <option value="identity">Identity</option>
+                <option value="internship">Internship</option>
+                <option value="letter">Letter</option>
+                <option value="library">Library</option>
+                <option value="migration certificate">Migration certificate</option>
+                <option value="noc">Noc></option>
+
+            </select>
+            <br><br>
+            <input type="file" name="file" accept=".txt" required>
+            <button type="submit">Upload</button>
+        </form>
+    </div>
+
+    <!-- Link to JS file -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
+
+
+

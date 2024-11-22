@@ -1,0 +1,21 @@
+UIDAI
+-----------------------------
+| AADHAR CARD
+-----------------------------
+| Name: Rahul Kumar
+| Gender: Male
+| Date of Birth: 15/08/1985
+| Aadhar Number: 1234 5678 9012
+| Father's Name: Vijay Kumar
+| Address: 
+|   101, Shanti Nagar, 
+|   Sector 12, New Delhi, 
+|   India - 110012
+| Mobile Number: 9876543210
+| Email: rahul.kumar@example.com
+-----------------------------
+| Issuing Authority: UIDAI
+| Date of Issue: 01/01/2015
+-----------------------------
+| QR Code: (image not shown here)
+-----------------------------

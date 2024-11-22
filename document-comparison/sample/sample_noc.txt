@@ -1,0 +1,17 @@
+Social Security Department
+-----------------------------
+| SOCIAL SECURITY CARD
+-----------------------------
+| Name: Arvind Kumar
+| Social Security Number: 987-65-4321
+| Date of Birth: 02/03/1987
+| Gender: Male
+| Father's Name: Prakash Kumar
+| Address: 
+|   77, Fortune Heights, 
+|   Bangalore, Karnataka, 
+|   India - 560001
+-----------------------------
+| Date of Issue: 15/08/2015
+| Issuing Authority: Social Security Department
+-----------------------------

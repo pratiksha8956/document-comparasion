@@ -1,0 +1,22 @@
+Ministry of External Affairs
+-----------------------------
+| PASSPORT
+-----------------------------
+| Name: Sandeep Yadav
+| Gender: Male
+| Passport No: A1234567
+| Nationality: Indian
+| Date of Birth: 05/09/1990
+| Place of Birth: Mumbai, Maharashtra
+| Address: 
+|   14, Maple Heights, 
+|   Mumbai, Maharashtra, 
+|   India - 400080
+| Father's Name: Subhash Yadav
+| Mother's Name: Seema Yadav
+-----------------------------
+| Date of Issue: 01/01/2022
+| Place of Issue: Mumbai
+| Issuing Authority: Ministry of External Affairs
+| Expiry Date: 01/01/2032
+-----------------------------

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Comparison Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Comparison Result</h1>
+        <p>{{ result }}</p>
+        <h2>First Image:</h2>
+        <img src="uploads/sample-aadhaar-card-800x445.png" alt="First Image" width="300">
+        <h2>Second Image:</h2>
+        <img src="{{ url_for('static', filename=image2) }}" alt="Second Image" width="300">
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
+
+

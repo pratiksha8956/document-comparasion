@@ -1,0 +1,18 @@
+Registrar General of India
+-----------------------------
+| BIRTH CERTIFICATE
+-----------------------------
+| Name: Riya Gupta
+| Date of Birth: 01/05/2015
+| Gender: Female
+| Aadhar No: 9876 5432 1098
+| Father's Name: Sunil Gupta
+| Mother's Name: Neelam Gupta
+| Place of Birth: Delhi
+| Address:
+|   22, Royal Street, 
+|   Delhi - 110075
+-----------------------------
+| Date of Registration: 05/05/2015
+| Issuing Authority: Government of India
+-----------------------------
